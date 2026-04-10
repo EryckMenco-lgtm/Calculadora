@@ -3,7 +3,8 @@ let valor1 = document.getElementById("valor1").value;
 let valor2 = document.getElementById("valor2").value;
 
 if (valor1 === "" || valor2 === "") {
-    mostrarResultado("resultadoo");
+    alert("Rellenar ambos campos");
+    mostrarResultado("Rellenar ambos campos");
     return;
 }
 
