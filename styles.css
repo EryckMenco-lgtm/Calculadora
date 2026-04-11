@@ -12,7 +12,7 @@ background: rgb(255, 255, 255);
 padding: 30px;
 border-radius: 15px;
 text-align: center;
-width: 50%;
+width: 30%;
 box-shadow: 10px 15px 25px rgba(0, 0, 0, 0.644);
 }
 
@@ -23,7 +23,7 @@ margin-bottom: 20px;
 input {
 width: 90%;
 padding: 10px;
-margin: 10px 0px;
+margin: 5px 0px;
 border: 2px solid #ccc;
 border-radius: 8px;
 outline: none;
